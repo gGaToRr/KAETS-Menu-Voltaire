@@ -1,0 +1,8 @@
+services:
+  backend:
+    build: .
+    image: kaets-backend:latest
+    container_name: kaets-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
