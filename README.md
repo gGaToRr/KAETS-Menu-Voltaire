@@ -72,7 +72,9 @@ cd KAETS-Menu-Voltaire/backend && docker compose up --build
 ```
 B- Deuxième manière, télécharger l'archive (.zip) :
 <div align="center">
-<button style="background-color: green;border-radius: 8px; border:none; width: 200px; height:30px; color: white; font-size: large; font-weight: bold;background: linear-gradient(90deg,rgba(112, 42, 155, 1) 0%, rgba(87, 175, 199, 1) 50%, rgba(83, 206, 237, 1) 100%);">DOWNLOAD</button>
+<a href="https://codeload.github.com/gGaToRr/KAETS-Menu-Voltaire/zip/refs/heads/main">
+<img src="Pics4Readme.md/download.svg" alt="Download" />
+</a>
 </div>
 <br>
 
@@ -151,12 +153,6 @@ MIT
 
 <sub>— kaets0ner —</sub>
 
-<p style="color:#22c55e; font-family: monospace; white-space: pre; text-align: center;">
- _  __          _        ___             ____  
-| |/ /__ _  ___| |_ ___ / _ \ _ __   ___|  _ \ 
-| ' // _` |/ _ \ __/ __| | | | '_ \ / _ \ |_) |
-| . \ (_| |  __/ |_\__ \ |_| | | | |  __/  _ < 
-|_|\_\__,_|\___|\__|___/\___/|_| |_|\___|_| \_\
-</p>
+<img src="Pics4Readme.md/banner.svg" alt="kaets0ner" />
 
 </div>

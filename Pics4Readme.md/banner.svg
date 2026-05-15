@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120" xml:space="preserve">
+  <style>
+    .ascii { font-family: 'Courier New', Courier, monospace; font-size: 16px; font-weight: bold; fill: #22c55e; white-space: pre; }
+  </style>
+  <text class="ascii" x="10" y="22" xml:space="preserve"> _  __          _        ___             ____  </text>
+  <text class="ascii" x="10" y="42" xml:space="preserve">| |/ /__ _  ___| |_ ___ / _ \ _ __   ___|  _ \ </text>
+  <text class="ascii" x="10" y="62" xml:space="preserve">| ' // _` |/ _ \ __/ __| | | | '_ \ / _ \ |_) |</text>
+  <text class="ascii" x="10" y="82" xml:space="preserve">| . \ (_| |  __/ |_\__ \ |_| | | | |  __/  _ &lt; </text>
+  <text class="ascii" x="10" y="102" xml:space="preserve">|_|\_\__,_|\___|\__|___/\___/|_| |_|\___|_| \_\</text>
+</svg>
